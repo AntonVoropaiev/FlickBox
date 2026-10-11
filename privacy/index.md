@@ -49,7 +49,7 @@ Recognition history, installation records and registration security records are 
 
 ## Your choices
 
-You may save links and use your existing library without enabling online identification. Turn off **Allow online identification** in Settings to stop new identification requests. Turning it off does not recall requests already submitted or delete existing backend history; contact support to request deletion.
+You may save links and use your existing library without enabling online identification. To stop new identification requests, stop sharing links to FlickBox or requesting searches and retries. Opening your library does not automatically retry identification. Requests already submitted may still finish and their backend history is retained. Contact support to withdraw consent or request deletion of backend data.
 
 Depending on your location, you may have rights to access, correct or delete personal information, restrict processing, object to processing, or withdraw consent. Contact us to exercise these rights. Withdrawing consent does not affect processing that has already occurred. Where applicable, you may also contact your local data-protection authority.
 

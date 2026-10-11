@@ -44,7 +44,7 @@ The [Privacy Policy](../privacy/) explains online processing and retention. Your
 
 ## Changes and termination
 
-We may improve, change or discontinue features and update these terms. Material changes will be communicated where appropriate. You may stop using the app at any time and withdraw online-processing consent in Settings. For backend data deletion, follow the Privacy Policy’s request process.
+We may improve, change or discontinue features and update these terms. Material changes will be communicated where appropriate. You may stop using the app or stop submitting identification requests at any time. Contact support for consent and privacy requests. For backend data deletion, follow the Privacy Policy’s request process.
 
 ## Liability and consumer rights
 
