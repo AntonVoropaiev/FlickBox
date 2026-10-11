@@ -18,7 +18,7 @@ Saved links, confirmed movies and series, favorites, and watch status are stored
 
 ## Online identification
 
-On first launch, you can read a short introduction and review the Terms and privacy disclosure. Online identification starts only after you select the agreement checkbox and tap Agree and continue. You can instead choose Use library only. When you enable it and request identification, we process:
+On first launch, you can read a short introduction. After you reach the library, FlickBox presents the full Terms and privacy disclosure. Online identification starts only after you select the agreement checkbox and tap Agree and continue. You can instead choose Use library only. When you enable it and request identification, we process:
 
 - The Instagram Reel or post link you share, including its post identifier.
 - Caption text and source metadata retrieved for that link, which can include hashtags, mentions, post identifiers and a preview-image URL.

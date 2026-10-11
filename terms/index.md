@@ -20,6 +20,12 @@ FlickBox helps identify possible movies or series from Instagram discoveries and
 
 AI identification and catalog data can be incomplete or wrong. A catalog result confirms that a work exists, not that it appears in the shared Reel. Review results before saving them. We do not guarantee recognition accuracy, catalog completeness, artwork availability or uninterrupted service.
 
+## Online identification and setup
+
+After the introduction, FlickBox opens your library and asks you to review these Terms and the Privacy Policy. Online setup begins only when you check the agreement and processing-consent box and tap Agree and continue. You may instead choose Use library only. If setup fails, you can retry without restarting the app.
+
+When you request identification, your shared Instagram link is sent to our backend and ScrapeCreators to retrieve its caption. OpenAI processes caption text and catalog context to propose and compare possible titles. Titles you type are also processed online, and catalog services provide movie or series information. The current service does not analyze the Reel’s video, audio or comments. The [Privacy Policy](../privacy/) identifies our providers and explains installation security, data processing and retention.
+
 ## Acceptable use
 
 Use FlickBox only for lawful purposes and submit only links or text you are permitted to share and process. Do not use it to bypass private-content restrictions, distribute unauthorized media, submit sensitive personal information, misuse another person’s data, automate bulk requests, evade usage limits, or attack the service. We may restrict online access to prevent abuse or protect the service.

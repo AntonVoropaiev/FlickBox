@@ -10,7 +10,7 @@ Include your app version, a short description of the problem, and the support re
 
 ## Identification is unavailable
 
-Check your internet connection. On first launch, follow the short introduction, review the Terms and privacy disclosure, check the agreement box and tap Agree and continue. Let setup finish before sharing from Instagram. If you previously chose Use library only, you can enable identification in Settings. A supported physical device is required for new installation setup. If you share a Reel before completing setup, open FlickBox to finish setup, then share the Reel again or tap I finished setup · try again. You can save the link locally while identification is unavailable.
+Check your internet connection. On first launch, finish the short introduction. The Terms appear shortly after the library opens: review them and the privacy disclosure, check the agreement box and tap Agree and continue. Let setup finish before sharing from Instagram. If you previously chose Use library only, you can enable identification in Settings. A supported physical device is required for new installation setup. If you share a Reel before completing setup, open FlickBox to finish setup, then share the Reel again or tap I finished setup · try again. You can save the link locally while identification is unavailable.
 
 ## FlickBox found the wrong movie
 
